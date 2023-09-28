@@ -1,0 +1,14 @@
+C:\Users\ilger\source\repos\future1\future1\bin\Debug\future1.exe.config
+C:\Users\ilger\source\repos\future1\future1\bin\Debug\future1.exe
+C:\Users\ilger\source\repos\future1\future1\bin\Debug\future1.pdb
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.csproj.AssemblyReference.cache
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.Form1.resources
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.Properties.Resources.resources
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.csproj.GenerateResource.cache
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.csproj.CoreCompileInputs.cache
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.exe
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.pdb
+C:\Users\ilger\source\repos\future1\future1\bin\Debug\predictionConfig.json
+C:\Users\ilger\source\repos\future1\future1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilger\source\repos\future1\future1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilger\source\repos\future1\future1\obj\Debug\future1.csproj.CopyComplete
